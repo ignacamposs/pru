@@ -7,7 +7,7 @@ Diseñada con un enfoque **Mobile-First** y una estética **Dark Mode Neón**.
 👉 **[Ver proyecto online aquí](https://ignacamposs.github.io/prueba/)** 👈
 
 ## 📸 Captura de Pantalla
-<img width="901" height="643" alt="Screenshot" src="https://github.com/user-attachments/assets/dbc32d80-8b36-4e41-89c3-01a35f19983d" />
+<img width="901" height="643" alt="screenshot" src="https://github.com/user-attachments/assets/dbc32d80-8b36-4e41-89c3-01a35f19983d" />
 
 
 ## 🛠️ Tecnologías Usadas
